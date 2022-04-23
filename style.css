@@ -107,10 +107,10 @@ header {
 
 @media screen and (max-width: 420px) {
   .wrapper {
-    max-width: 100%;
+    max-width: 420px;
   }
   .container-left{
-      max-width: 100%;
+      max-width: 420px;
   }
   h1 {
     display: flex;
