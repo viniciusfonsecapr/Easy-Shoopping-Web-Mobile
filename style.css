@@ -109,6 +109,9 @@ header {
   .wrapper {
     max-width: 100%;
   }
+  .container-left{
+      max-width: 100%;
+  }
   h1 {
     display: flex;
     margin-top: 58px;
